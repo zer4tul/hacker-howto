@@ -1,6 +1,10 @@
-# How To Become A Hacker
+# 如何成为黑客
+
+How To Become A Hacker
 
 Eric Steven Raymond, [Thyrsus Enterprises](http://catb.org/~esr/), < <esr@thyrsus.com> >
+
+Copyright © 2001 Eric S. Raymond
 
 翻译：柯非, < <zer4tul@gmail.com> >
 
