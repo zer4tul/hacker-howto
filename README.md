@@ -6,7 +6,7 @@ Eric Steven Raymond, [Thyrsus Enterprises](http://catb.org/~esr/), < <esr@thyrsu
 
 这篇译文基于2014.11.21更新的[原文][hacker-howto]修订版1.49。
 
-如果对译文有任何意见或者建议，__請[发Issue](https://github.com/zer4tul/hacker-howto/issues/new)，或直接[发Pull Request](https://github.com/zer4tul/hacker-howto/compare/)給我。__
+如果对译文有任何意见或者建议，__请[发Issue](https://github.com/zer4tul/hacker-howto/issues/new)，或直接[发Pull Request](https://github.com/zer4tul/hacker-howto/compare/)给我。__
 
 ## 目录
 - [为何会有这篇文档](#为何会有这篇文档)
