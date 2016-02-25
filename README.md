@@ -8,7 +8,7 @@ Copyright © 2001 Eric S. Raymond
 
 翻译：柯非, < <zer4tul@gmail.com> >
 
-这篇译文基于2014.11.21更新的[原文][hacker-howto]修订版1.49。
+这篇译文基于2015.07.19更新的[原文][hacker-howto]修订版1.50。
 
 如果对译文有任何意见或者建议，__请[发Issue](https://github.com/zer4tul/hacker-howto/issues/new)，或直接[发Pull Request](https://github.com/zer4tul/hacker-howto/compare/)给我。__
 
@@ -200,6 +200,8 @@ Unix是互联网上的操作系统。虽然你不懂Unix仍然可以学会使用
 所以，请安装一套Unix - 我个人喜爱Linux但还有其他种类的（并且，你 **可以** 在同一台电脑上运行Linux和Windows）。学习它，使用它，调教它。用它在互联网上冲浪。阅读它的代码，修改它的代码。你将获得比Windows操作系统上更好的编程工具（包括C，LISP，Python和Perl）。你会觉得其乐无穷，学到比你想像更多更好的知识。
 
 想要获取更多和学习Unix相关的信息，请参考[Loginataka][Loginataka]。你或许还想看看[Unix编程艺术][The Art Of Unix Programming]（译注：这里给出的是原文链接。国内有翻译版出售）。
+
+我认为博客[Let's Go Larval!](https://letsgolarval.wordpress.com)对于处在学习Linux阶段中的用户是非常易懂和有用的。 这篇文章[How I Learned Linux](https://letsgolarval.wordpress.com/2015/06/23/how-i-learned-linux) 就是一个很好的起点。
 
 想开始Linux之旅，请参考[Linux Online!][Linux Online!]。你可以从那里下载Linux或者（更好的主意是）找到一个当地的Linux用户群为你的安装过程提供帮助。
 
