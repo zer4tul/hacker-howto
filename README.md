@@ -24,7 +24,7 @@ Copyright © 2001 Eric S. Raymond
 - [基本黑客技能](#基本黑客技能)
   - [1. 学习编程](#skill1)
   - [2. 获取一个开源的Unix并学习运行和使用它](#skill2)
-  - [3. 学习使用万维网（World Wide Web，WWW）和HTML（超文本标记语言）](#skill3)
+  - [3. 学习使用万维网（World Wide Web，WWW）和HTML（超文本标记语言）](#skill3)
   - [4. 学习实用英语](#skill4)
 - [黑客社区的身份](#黑客社区的身份)
   - [1. 编写开源软件](#respect1)
