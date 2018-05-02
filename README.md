@@ -8,7 +8,7 @@ Copyright © 2001 Eric S. Raymond
 
 翻译：柯非, < <zer4tul@gmail.com> >
 
-这篇译文基于2015.07.19更新的[原文][hacker-howto]修订版1.50。
+这篇译文基于2017.10.06更新的[原文][hacker-howto]修订版1.50。
 
 如果对译文有任何意见或者建议，__请[发Issue](https://github.com/zer4tul/hacker-howto/issues/new)，或直接[发Pull Request](https://github.com/zer4tul/hacker-howto/compare/)给我。__
 
@@ -209,7 +209,7 @@ Unix是互联网上的操作系统。虽然你不懂Unix仍然可以学会使用
 
 你可以在[www.bsd.org](http://www.bsd.org)找到BSD相关的帮助和资源。
 
-一个试水的好办法是试试被Linux爱好者称为“Live CD”的东西，那是一个完全在光盘上运行，而不修改你硬盘的发行版。它运行起来比较慢，因为光盘很慢，但是这是一个在做出任何不可挽救的改变前看看可行性的办法。
+一个试水的好办法是试试被Linux爱好者称为“Live CD”的东西，那是一个完全在光盘或者U盘上运行，而不修改你硬盘的发行版。它运行起来比较慢，因为光盘很慢，但是这是一个在做出任何不可挽救的改变前看看可行性的办法。
 
 我写过一篇关于[Unix和互联网基础][basics of Unix and the Internet]的入门文章。
 
@@ -360,6 +360,8 @@ Unix是互联网上的操作系统。虽然你不懂Unix仍然可以学会使用
 ## 其他资源
 
 Paul Graham写了一篇名为“[Great Hackers][Great Hackers]”和一篇名为“[Undergraduation][Undergraduation]”的文章，有很多精妙的见解。
+
+年轻的黑客可能会发现[Things Every Hacker Once Knew][Things Every Hacker Once Knew]有趣并且有用。
 
 有一篇名为[How To Be A Programmer][How To Be A Programmer]的文章，对如何成为程序员做了详尽的说明。它的价值不仅限于代码及其相关能力上，对于如何在一个程序员团队中工作也有建设性价值。
 
@@ -579,6 +581,7 @@ A: 如果你的机器上还没有安装Unix，我在本文的其他地方已经�
 [The HTML Hell Page]: http://catb.org/~esr/html-hell.html
 [open-source]: http://www.opensource.org/
 [Great Hackers]: http://www.paulgraham.com/gh.html
+[Things Every Hacker Once Knew]: http://catb.org/~esr/faqs/things-every-hacker-once-knew
 [Undergraduation]: http://www.paulgraham.com/college.html
 [How To Be A Programmer]: http://samizdat.mines.edu/howto/HowToBeAProgrammer.html
 [A Brief History Of Hackerdom]: http://catb.org/~esr/writings/hacker-history/hacker-history.html
