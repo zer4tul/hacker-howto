@@ -8,7 +8,7 @@ Copyright © 2001 Eric S. Raymond
 
 翻译：柯非, < <zer4tul@gmail.com> >
 
-这篇译文基于2017.10.06更新的[原文][hacker-howto]修订版1.50。
+这篇译文基于2017.10.06更新的[原文][hacker-howto]修订版1.51。
 
 如果对译文有任何意见或者建议，__请[发Issue](https://github.com/zer4tul/hacker-howto/issues/new)，或直接[发Pull Request](https://github.com/zer4tul/hacker-howto/compare/)给我。__
 
