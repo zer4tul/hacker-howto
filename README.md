@@ -56,7 +56,7 @@ Copyright © 2001 Eric S. Raymond
 
 <p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
 
-## 什么是黑客？
+## 什么是黑客
 
 [新黑客词典（Jargon File）][Jargon File]中有数个“黑客”的定义，主要形容"技术专才"或"有志解决问题及超越极限之人"。要成为黑客，有两个要点。
 
