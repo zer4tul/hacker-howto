@@ -8,7 +8,7 @@ Copyright © 2001 Eric S. Raymond
 
 翻译：柯非, < <zer4tul@gmail.com> >
 
-这篇译文基于2017.10.06更新的[原文][hacker-howto]修订版1.51。
+这篇译文基于2020.01.03更新的[原文][hacker-howto]修订版1.52。
 
 如果对译文有任何意见或者建议，__请[发Issue](https://github.com/zer4tul/hacker-howto/issues/new)，或直接[发Pull Request](https://github.com/zer4tul/hacker-howto/compare/)给我。__
 
@@ -52,7 +52,7 @@ Copyright © 2001 Eric S. Raymond
 
 本文里九宫格中的5个黑点的装饰图被称作glider。这是一个使很多黑客多年痴迷的被称作[康威生命游戏（LIFE）][life]中，具有令人惊奇特性的简单图案。我认为它是很好的黑客精神徽章 —— 抽象，初见的时候感觉有点神秘，通过它复杂的逻辑可以通向整个世界。如果你想了解更多关于glider的信息，请看[这里][glider]。
 
-如果你觉得这篇文章有价值，请[在Gittip上给我一点赞助][gittip]。也请考虑赞助其他为你提供了有价值代码的黑客。小额的赞助也能够聚小流成江海，使为你提供帮助的人从繁重的劳动中解放出来，创造更多的价值。
+如果你觉得这篇文章有价值，请在[Patreon][Patreon]或者[SubscribeStar][SubscribeStar]上给我一点赞助。也请考虑通过[Loadsharers][Loadsharers]赞助其他为你提供了有价值代码的黑客。小额的赞助也能够聚小流成江海，使为你提供帮助的人从繁重的劳动中解放出来，创造更多的价值。
 
 <p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
 
@@ -162,6 +162,8 @@ Copyright © 2001 Eric S. Raymond
 理所当然，这是最基本的黑客技能。如果你一门计算机语言都不懂，我建议你从Python学起。它设计良好，文档详尽，并且对新人十分友好。尽管它是一门很好的入门语言，但它不只是玩具水平。它非常强大灵活，并且适用于大型项目。我写过一篇详细的[对Python的评价][evaluation of Python]。在[Python的网站][tutorials]可以找到很好的[教程][tutorials]。在[Computer Science Circles][Computer Science Circles]也有一篇不错的第三方教程。
 
 我早前曾经建议使用Java作为入门语言，但[这篇评价][critique of java]改变了我的看法（请在文档中搜索“The Pitfalls of Java as a First Programming Language”）。如同文中尖锐指出的一样，一个黑客不能“像五金店中的管道工一样处理问题”。你需要知道所有的组件事实上都 **干了什么**。现在，我认为最好先学C和Lisp，然后再学Java。
+
+比Java更好的选择是学习Go。这种相对较新的语言很容易从Python上手，而且学习它可以使你在可能的下一步（学习C语言）中得到很大的帮助。此外，未来几年的一个未知数是Go将在多大程度上取代C语言成为真正的系统编程语言。在未来，这种情况可能会在C语言的大部分传统领域内发生。
 
 另外有一点需要注意。如果一门语言帮你做了太多工作，它会同时是一个好的生产工具和一个不好的初学对象。不仅语言有这个问题，Web框架比如RubyOnRails，CakePHP，Django也很容易让你流于表面，面对困难问题的时候束手无策，甚至无法对一个简单问题进行追查并给出解决方案。
 
@@ -565,7 +567,9 @@ A: 如果你的机器上还没有安装Unix，我在本文的其他地方已经�
 [Swedish]: http://www1.tripnet.se/~mly/open/faqs/hacker-howto.se.html
 [life]: http://dmoz.org/Computers/Artificial_Life/Cellular_Automata/
 [glider]: http://www.catb.org/~esr/hacker-emblem/
-[gittip]: http://gittip.com/esr
+[Patreon]:http://patreon.com/esr
+[SubscribeStar]:https://www.subscribestar.com/esr
+[Loadsharers]:http://www.catb.org/esr/loadsharers/
 [alt.2600]: news:alt.2600
 [evaluation of Python]: http://www.linuxjournal.com/article/3882
 [tutorials]: http://docs.python.org/tutorial/index.html
