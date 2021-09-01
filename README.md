@@ -549,7 +549,7 @@ A: 如果你的机器上还没有安装Unix，我在本文的其他地方已经�
 [hacker-howto]: http://catb.org/~esr/faqs/hacker-howto.html
 [Arabic]: http://www.slashproc.net/doc/howto-ar.html
 [Belorussian]: http://moneyaisle.com/worldwide/how-to-become-a-hacker-be
-[Chinese]: https://gist.github.com/zer4tul/44ac7d145a4342d876f3
+[Chinese]: https://github.com/zer4tul/hacker-howto
 [Czech]: http://jjk.kybli.net/projekty/jakse-stat-hackerem.html
 [Danish]: http://www.olemichaelsen.dk/hacker-howto.html
 [Dutch]: http://www.knudde.be/index.php?page_name=hacker_howto
