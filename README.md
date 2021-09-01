@@ -44,7 +44,7 @@ Copyright © 2001 Eric S. Raymond
 
 身为[新黑客词典（The Jargon File）][Jargon File]和许多其他广为人知的同类文章的作者，我常收到热心的网络新人的电子邮件，问及（大意上是）“如何成为一名魔法师似的黑客？”。1996年的时候我注意到这个重要的问题并没有相关的FAQ或文档页面，所以我写了一份。许多黑客认为这篇文章是权威的，我觉得它应该是吧。此外，我不会寻求在这个话题上的独立著作权，如果你不喜欢在这里读到的内容，自己写一篇吧。
 
-如果你是在离线阅读本文，可以在[http://catb.org/~esr/faqs/hacker-howto.html][hacker-howto]找到本文的最新版本。（译注：本文的最新中文版可以在[这里][Chinese]找到）
+如果你是在离线阅读本文，可以在[http://catb.org/~esr/faqs/hacker-howto.html][hacker-howto]找到本文的最新版本。（译注：本文的最新中文版可以在[这里][Chinese_Latest]找到）
 
 注意：本文的末尾有一系列[常见问题](#常见问题)。请在向我发邮件询问关于本文的任何问题前 **再三阅读**。
 
@@ -549,7 +549,8 @@ A: 如果你的机器上还没有安装Unix，我在本文的其他地方已经�
 [hacker-howto]: http://catb.org/~esr/faqs/hacker-howto.html
 [Arabic]: http://www.slashproc.net/doc/howto-ar.html
 [Belorussian]: http://moneyaisle.com/worldwide/how-to-become-a-hacker-be
-[Chinese]: https://github.com/zer4tul/hacker-howto
+[Chinese]: http://www.0x08.org/docs/hacker-howto.html
+[Chinese_Latest]: https://github.com/zer4tul/hacker-howto
 [Czech]: http://jjk.kybli.net/projekty/jakse-stat-hackerem.html
 [Danish]: http://www.olemichaelsen.dk/hacker-howto.html
 [Dutch]: http://www.knudde.be/index.php?page_name=hacker_howto
